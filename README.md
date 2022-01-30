@@ -2,11 +2,17 @@
 
 ![](https://github.com/matheusmorita/nft_minting_dapp/blob/master/public/config/images/logo.png)
 
-To find out more please visit:
-
 # DrunkDogs NFT minting dapp 🍹
 
 ![](https://github.com/matheusmorita/nft_minting_dapp/blob/master/banner.png)
+
+# You can mint your Drunk Dog
+
+To mint, you need the metamask installed and configured with Rinkeby testnet
+
+Then you just need to access: https://drunkdogs.netlify.app/
+
+and mint until 20 Drunk Dog
 
 ## Installation 🛠️
 
