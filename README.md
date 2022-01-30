@@ -2,7 +2,7 @@
 
 ![](https://github.com/matheusmorita/nft_minting_dapp/blob/master/public/config/images/logo.png)
 
-# DrunkDogs NFT minting dapp 🍹
+# Drunk Dogs NFT minting dapp 🍹
 
 ![](https://github.com/matheusmorita/nft_minting_dapp/blob/master/banner.png)
 
