@@ -1,12 +1,12 @@
 # Welcome to DrunkDogs 🐶aaa
 
-![](https://github.com/matheusmorita/nft_minting_dapp/blob/master/config/images/logo.png)
+![](https://github.com/matheusmorita/nft_minting_dapp/blob/master/logo.png)
 
 To find out more please visit:
 
 # DrunkDogs NFT minting dapp 🍹
 
-![](https://github.com/matheusmorita/nft_minting_dapp/blob/master/banner.PNG)
+![](https://github.com/matheusmorita/nft_minting_dapp/blob/master/banner.png)
 
 ## Installation 🛠️
 
