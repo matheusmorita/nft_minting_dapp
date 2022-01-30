@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7163a46f13B180F45bCEed6cda41529AC662cDBf",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x7163a46f13B180F45bCEed6cda41529AC662cDBf",
+  "NETWORK": {
+    "NAME": "Rede de testes Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Drunk Dogs",
+  "SYMBOL": "DD",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/drunkdogs",
+  "SHOW_BACKGROUND": true
+}
