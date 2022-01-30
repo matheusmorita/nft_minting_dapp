@@ -1,6 +1,6 @@
 # Welcome to DrunkDogs 🐶aaa
 
-![](https://github.com/matheusmorita/nft_minting_dapp/blob/master/logo.png)
+![](https://github.com/matheusmorita/nft_minting_dapp/blob/master/public/config/images/logo.png)
 
 To find out more please visit:
 
